@@ -1,0 +1,3 @@
+C:\Users\hp>cd C:\xampp\mysql\bin
+
+C:\xampp\mysql\bin>mysqld --console --skip-grant-tables --skip-external-locking
